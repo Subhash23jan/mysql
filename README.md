@@ -1,2 +1,1 @@
-# mysql
-my first database which is insurance database.
+Collection of garbage prgrams which may necessary in future
